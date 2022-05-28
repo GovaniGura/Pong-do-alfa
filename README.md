@@ -15,7 +15,7 @@ function preload() {
   
   ponto = loadSound("[ponto.mp3](https://onedrive.live.com/download?cid=88E6136A08A9D44E&resid=88E6136A08A9D44E%21552&authkey=AL3sOXa21xiPYgs)");
   
-  raquetada = loadSound("[raquetada.mp3](https://onedrive.live.com/download?cid=88E6136A08A9D44E&resid=88E6136A08A9D44E%21552&authkey=AL3sOXa21xiPYgs)");
+  raquetada = loadSound("[raquetada.mp3](https://onedrive.live.com/download?cid=88E6136A08A9D44E&resid=88E6136A08A9D44E%21554&authkey=ANAB977h4YzACtQ)");
 
 }
 
@@ -27,6 +27,6 @@ trilha = loadSound("[Blue Bird.mp3](https://onedrive.live.com/download?cid=88E61
 
 ponto = loadSound("[oni-chan.mp3](https://onedrive.live.com/embed?cid=88E6136A08A9D44E&resid=88E6136A08A9D44E%21555&authkey=ALi7SsJkOxyQ8Ss)(");
 
-raquetada = loadSound("[raquetada.mp3](https://onedrive.live.com/download?cid=88E6136A08A9D44E&resid=88E6136A08A9D44E%21552&authkey=AL3sOXa21xiPYgs)");
+raquetada = loadSound("[raquetada.mp3](https://onedrive.live.com/download?cid=88E6136A08A9D44E&resid=88E6136A08A9D44E%21554&authkey=ANAB977h4YzACtQ)");
 
 }
