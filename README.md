@@ -1,6 +1,8 @@
 # Pong do alfa
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+**EXECUTOR**
+
 function preload() {
 
   //[audio1](https://onedrive.live.com/download?cid=88E6136A08A9D44E&resid=88E6136A08A9D44E%21558&authkey=AOuLb4ijHszsvRI)();
@@ -8,6 +10,8 @@ function preload() {
   [audio2](https://onedrive.live.com/download?cid=88E6136A08A9D44E&resid=88E6136A08A9D44E%21559&authkey=AJNZ6zGt70X2n3w)();
   
   }
+  
+  **EXECUTAVEL**
   
   function audio1() {
   
